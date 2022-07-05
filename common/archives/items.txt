@@ -1,0 +1,2 @@
+A$Iron_shield$A_Iron_shield$+15def$3$3$15$
+W$Diamond_sword$A_Diamond_sword$+35atk$7$7$35$

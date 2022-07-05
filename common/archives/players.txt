@@ -1,0 +1,3 @@
+K$KnightPlayer$210$300$130$
+O$OrcPlayer$210$320$80$
+M$MagicianPlayer$210$210$190$
